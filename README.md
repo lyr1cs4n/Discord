@@ -85,6 +85,6 @@ Give a ⭐️ if you like this port!
 <h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="15px" alt="Abod1960" src="https://i.imgur.com/8zmDXkV.png"> License</h2>
 
 Copyright © 2022 [Abod1960](https://github.com/Abod1960)<br>
-This project is licensed under the [GNU General Public](https://github.com/Moonlight-color-theme/new-port-template/blob/main/LICENSE) license.<br>
+This project is licensed under the [GNU General Public](https://github.com/Moonlight-color-theme/Discord/blob/main/LICENSE) license.<br>
 
 
