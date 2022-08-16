@@ -22,6 +22,7 @@ Moonlight theme for discord is curentlly only for BetterDiscord, for the other p
 <h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="15px" alt="Abod1960" src="https://i.imgur.com/47tcmEc.png"> Utilization</h2>
 
 <h3>BetterDiscord</h3>
+
 1. you need to download [BetterDiscord](https://betterdiscord.app) at first.
 2. download the file of the theme you want.
 3. open discord the go to the user settings, and open themes tab, "if you can't see the Themes tab then this is because you didn't download BetterDiscord.
