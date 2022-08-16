@@ -19,6 +19,14 @@ A simple moonlight theme for discord 🏕<br>
 Moonlight is a dark color theme for discord. matching the color palette of moonlight theme.<br>
 Moonlight theme for discord is curentlly only for BetterDiscord, for the other platforms, this coming soon...
 
+<h3>Recommended plugins</h3>
+
+
+1. [Hide Channels](https://betterdiscord.app/plugin/Hide%20Channels)
+2. [BetterAnimations](https://betterdiscord.app/plugin/BetterAnimations)
+3. [ServerHider](https://betterdiscord.app/plugin/ServerHider)
+4. [BetterCodeblocks](https://betterdiscord.app/plugin/BetterCodeblocks)
+
 <h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="15px" alt="Abod1960" src="https://i.imgur.com/47tcmEc.png"> Utilization</h2>
 
 <h3>BetterDiscord</h3>
