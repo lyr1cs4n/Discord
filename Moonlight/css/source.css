@@ -34,6 +34,19 @@
 }
 /*small changes-------------------------------------------------------------------------------*/
 
+.wordmarkWindows-2dq6rw svg {
+    display:none;
+}
+.wordmarkWindows-2dq6rw::after {
+    font-family: Rubik;
+    font-size: 13.10px;
+    font-weight: 650;
+    top:4px;
+    left: 2px;
+    position: relative;
+    letter-spacing: 0.1px;
+}
+
 .upload-vLbqu- {
   background-color: var(--backgroundColor02);
 }
@@ -764,18 +777,18 @@
 }
 #app-mount .check-K_srvn {
   background: var(--mainColor) !important;
-  -mask-image: url(/assets/1c0a5d38bdeaaad433b68cf6092ed510.svg);
+  -webkit-mask-image: url(/assets/1c0a5d38bdeaaad433b68cf6092ed510.svg);
 }
 #app-mount .wordmarkWindows-2dq6rw {
   color: var(--mainColor) !important;
 }
 #app-mount .wordmarkWindows-2dq6rw::after {
   position: absolute;
-  content: "NOCTURNAL";
+  content: "Moonlight Discord";
   top: 7px;
   height: 10px;
-  width: 100px;
-  margin-left: -10px;
+  width: 200px;
+  margin-left: 10px;
   color: var(--mainColor);
   background-position: center;
   background-size: contain;
