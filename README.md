@@ -2,7 +2,7 @@
     <img src="https://i.imgur.com/nVXWcZJ.png" width = 150rem/>
 </p>
 <br>
-<h2 align="center"> <b>Mooonlight Discord</b> </h2>
+<h2 align="center"> <b>Moonlight Discord</b> </h2>
 <p align="center">"Discord" 🏕
 </p>
 
