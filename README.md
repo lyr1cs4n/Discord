@@ -2,7 +2,7 @@
     <img src="https://i.imgur.com/nVXWcZJ.png" width = 150rem/>
 </p>
 <br>
-<h2 align="center"> <b>Mooonlight Discord</b> </h2>
+<h2 align="center"> <b>Moonlight Discord</b> </h2>
 <p align="center">"Discord" 🏕
 </p>
 
@@ -88,4 +88,7 @@ Give a ⭐️ if you like this port!
 Copyright © 2022 [Abod1960](https://github.com/Abod1960)<br>
 This project is licensed under the [GNU General Public](https://github.com/Moonlight-color-theme/Discord/blob/main/LICENSE) license.<br>
 
+<div align= "center">
+<img src="https://i.imgur.com/AakakSO.png" width=100%>
+</div>
 
