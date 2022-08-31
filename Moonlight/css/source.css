@@ -4,6 +4,7 @@
 :root {
   --backgroundColor01: #1f2730;
   --backgroundColor02: #191f28;
+  --backgroundColor-trans: rgba(53, 61, 79, 0.5);
   --mainColor: #c69f68;
   --gradientColor01: #93764d;
   --gradientColor02: #93764d;
@@ -33,9 +34,75 @@
   --disable-animations: 2s channel-unread infinite;
 }
 /*small changes-------------------------------------------------------------------------------*/
-
+.theme-dark{
+  --text-link: var(--gradientColor01);
+}
+.item-2LIpTv{
+  background: var(--mainColor);
+  width: 3px;
+  border-radius: 10px;
+  margin-left: 4px;
+}
+.accountList-Wii_T5{
+  background-color: var(--backgroundColor01);
+}
+.accountBtn-3pgcgr .accountBtnInner-3ttD-i{
+  background-color: var(--backgroundColor-trans);
+}
+.container-2nx-BQ{
+  background-color: var(--backgroundColor-trans)!important;
+}
+.slider-32CRPX rect {
+  fill:var(--mainColor)!important;
+  rx: 5px!important;
+}
+.slider-32CRPX svg path {
+  fill: var(--backgroundColor02)!important;
+}
+.connectionHeader-Ixbb1s{
+  background: var(--backgroundColor-trans);
+}
+.connection-YOVI9j{
+  background-color: var(--backgroundColor01);
+}
 .wordmarkWindows-2dq6rw svg {
     display:none;
+}
+.avatar-2OC07D{
+  border: 6px solid var(--backgroundColor01);
+  box-shadow: 0px 0px 10px #000;
+  margin: -8px;
+}
+.reaction-3vwAF2{
+  background-color: var(--backgroundColor-trans);
+}
+.reaction-3vwAF2.reactionMe-1PwQAc{
+    background-color: rgba(198, 159, 104, 0.15);
+    border-color: var(--gradientColor02);
+}
+.container-3i3IzO {
+  background-color: var(--backgroundColor01)!important;
+}
+.role-2TIOKu{
+  background: rgba(53, 61, 79, 0.6);
+}
+.theme-dark.profileColors-3Y0XaR{
+  --profile-body-background-color: rgba(51, 56, 75, 0.35)!important;
+}
+.option-ayUoaq:after{
+	content: none;
+  }
+#app-mount .quickswitcher-pKcM9U, #app-mount .scroller-2qwVWY, #app-mount .uploadModalIn-2w48Zf .uploadDropModal-13Kd20 .bgScale-1iWuPF {
+  background: var(--backgroundColor01)!important;
+}
+.userPopoutInnerNonPremium-3zrFkp{
+  background: var(--backgroundColor02);
+}
+.searchBar-jGtisZ{
+  background-color: var(--backgroundColor01);
+}
+.userPopoutInnerWithBanner-wsoegj {
+    background: var(--backgroundColor02);
 }
 .wordmarkWindows-2dq6rw::after {
     font-family: Rubik;
@@ -53,6 +120,15 @@
 .userInfoSection-3her-v {
   padding-left: 1.063rem;
 }
+.popout-TdhJ6Z {
+  background-color: var(--backgroundColor01          )!important;
+}
+.row-1qtctT:hover{
+  background-color: var(--gradientColor02)             !important;
+}
+.more-2c3Z-T{
+  color: var(--gradientColor01);
+}
 /*server border*/
 :root .expandedFolderBackground-1kSAf6 {
   border-radius: var(--server-radius);
@@ -67,6 +143,12 @@
 :root .flexChild-3PzYmX .avatarUploaderInner-yEhTv5 {
   border-radius: var(--server-radius);
 }
+
+.section-3FmfOT div textarea{
+  padding: 10px;
+  height: 40px;
+}
+
 :root .iconInactive-26M06U {
   border-radius: calc(var(--server-radius) - 4px);
 }
@@ -360,7 +442,8 @@
   -o-transition: box-shadow 0.2s ease;
   -moz-transition: box-shadow 0.2s ease;
   transition: box-shadow 0.2s ease;
-  color: #c0cedd !important;
+  color: #ffffff !important;
+  text-shadow: 0px 0px 2px #000;
 }
 #app-mount .bd-button:not(.bd-button-danger):hover,
 #app-mount .lookFilled-yCfaCM.colorBrand-21Le_q:hover,
@@ -771,6 +854,8 @@
 #app-mount .botTagRegular-kpctgU,
 #app-mount .wanderingCubesItem-3Us-UG {
   background-color: var(--mainColor) !important;
+  color: #fff;
+  text-shadow: 0px 0px 2px #000;
 }
 #app-mount .childContainer-U_a6Yh {
   top: 1px;
