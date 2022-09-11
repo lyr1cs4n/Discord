@@ -1,15 +1,16 @@
-
+@-moz-document url-prefix("http://example.com") {
     /* ==UserStyle==
     @name         Moonlight Discord
     @description  A color theme inspired by the camping vibe 🏕 for Discord
     @namespace    https://github.com/Moonlight-theme/Discord
     @homepageURL  https://moonlight.nicepage.io
     @supportURL   https://github.com/Moonlight-theme/Discord/issues
-    @updateURL    https://github.com/Moonlight-theme/Discord/raw/main/moonlight/web_version/moonlgiht-discord.user.css
+    @updateURL    https://github.com/Moonlight-theme/Discord/raw/main/Moonlight/web_version/moonlight-discord.user.css
     @author       Abod1960 <abod1960.work@gmail.com> (https://abod1960.cf)
     @version      1.0
     @license      GPL-3.0
     ==/UserStyle== */
+    }
     
     @-moz-document domain("discord.com") {
     @import url(https://codedotspectra.github.io/themes/core/settings-icons.css);
