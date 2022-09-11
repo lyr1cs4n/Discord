@@ -17,7 +17,7 @@
 
 A simple moonlight theme for discord 🏕<br>
 Moonlight is a dark color theme for discord. matching the color palette of moonlight theme.<br>
-Moonlight theme for discord is curentlly only for BetterDiscord, for the other platforms, this coming soon...
+Moonlight theme for discord is curentlly only for BetterDiscord and Stylus, for the other platforms and devices, this coming soon...
 
 <h3>Recommended plugins</h3>
 
@@ -45,7 +45,7 @@ Moonlight theme for discord is curentlly only for BetterDiscord, for the other p
 <h3>Stylus - Web version</h3>
 
 1. get [stylus](https://add0n.com/stylus.html) extension.
-2. install [moonlight discord](https://github.com/Moonlight-theme/Discord/raw/main/Moonlight/web_version/moonlight-discord.user.css)
+2. install [moonlight discord](https://github.com/Moonlight-theme/Discord/raw/main/Moonlight/web_version/moonlight-discord.user.css).
 
 <h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="15px" alt="Abod1960" src="https://i.imgur.com/nlTtRn7.png"> Gallery</h2>
 
