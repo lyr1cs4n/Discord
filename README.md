@@ -29,8 +29,7 @@ Moonlight theme for discord is curentlly only for BetterDiscord, for the other p
 
 <h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="15px" alt="Abod1960" src="https://i.imgur.com/47tcmEc.png"> Utilization</h2>
 
-<h3>BetterDiscord</h3>
-
+<h3>BetterDiscord - Dsktop version</h3>
 
 1. you need to download [BetterDiscord](https://betterdiscord.app) at first.
 2. Download [moonlight.theme.css](https://github.com/Moonlight-theme/Discord/releases/download/1.1/moonlight.theme.css).
@@ -42,6 +41,11 @@ Moonlight theme for discord is curentlly only for BetterDiscord, for the other p
 8. close the setteings then press <kbd>Ctrl</kbd> + <kbd>R</kbd> inside your discord app.
 9. now wait for it to refresh then go to the settings and enable the theme you downloaded in the Themes tab.
 10. Enjoy!
+
+<h3>Stylus - Web version</h3>
+
+1. get [stylus](https://add0n.com/stylus.html) extension.
+2. install [moonlight discord](https://github.com/Moonlight-theme/Discord/raw/main/Moonlight/web_version/moonlight-discord.user.css)
 
 <h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="15px" alt="Abod1960" src="https://i.imgur.com/nlTtRn7.png"> Gallery</h2>
 
@@ -66,6 +70,10 @@ Moonlight theme for discord is curentlly only for BetterDiscord, for the other p
 #### DMs
 
 ![discord-005](https://i.imgur.com/yEnGsjM.jpg)
+
+#### Search
+
+![discord-005](https://i.imgur.com/mkffZVs.png)
   
 <h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="15px" alt="Abod1960" src="https://i.imgur.com/eK12XXt.png"> Author</h2>
 
