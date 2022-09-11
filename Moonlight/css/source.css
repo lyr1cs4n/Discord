@@ -1,6 +1,7 @@
 @import url(https://codedotspectra.github.io/themes/core/settings-icons.css);
 @import url(https://codedotspectra.github.io/themes/core/hljs.css);
 @import url(https://codedotspectra.github.io/themes/core/custom-font.css);
+@import url(https://fonts.googleapis.com/css?family=Rubik);
 :root {
   --backgroundColor01: #1f2730;
   --backgroundColor02: #191f28;
