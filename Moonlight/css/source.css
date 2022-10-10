@@ -33,6 +33,46 @@
   --mention-color: #f04747;
   --disable-animations: 2s channel-unread infinite;
 }
+/*fixes ---------------------------------------------------------------------------------*/
+.matchingPostsRow-2IiEQ1{
+  background: var(--backgroundColor-trans);
+}
+
+.userProfileInnerNonPremium-1XjSjn{
+  background: var(--backgroundColor02);
+}
+
+.header-1sd0RU{
+  background: var(--backgroundColor01);
+}
+
+.container-2Hi7Km, .icon-2IDTxf{
+  background: var(--backgroundColor01);
+}
+
+.pill-3pRQlO{
+  background-color: var(--backgroundColor-trans);
+}
+
+.reaction-102jx9{
+  background-color: var(--backgroundColor-trans);
+}
+.reaction-102jx9.reactionMe-2zhiyZ{
+    background-color: rgba(198, 159, 104, 0.15);
+    border-color: var(--gradientColor02);
+}
+.tag-19iIl1, .tagsButton-4pwOKH{
+  background-color: var(--backgroundColor01);
+}
+
+.theme-dark .container-3wLKDe{
+  background-color: var(--backgroundColor02);
+}
+
+.theme-dark{
+--background-primary: var(--backgroundColor01)!important;
+}
+
 /*small changes-------------------------------------------------------------------------------*/
 .theme-dark{
   --text-link: var(--gradientColor01);
@@ -1147,7 +1187,6 @@
   fill: var(--mainColor) !important;
 }
 #app-mount .input-2g-os5 {
-  background-color: var(--backgroundColor02) !important;
   color: #c0cedd !important;
   border-color: transparent !important;
 }
